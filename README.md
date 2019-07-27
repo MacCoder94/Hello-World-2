@@ -13,4 +13,12 @@ git config --global user.email "MacCoder94@iCloud.com"
 
 # Listing of git configuration
 
-get config --list        
+get config --list
+
+
+If you get in VIM (an editor), hit :q to get out of it.
+
+Concepts
+
+Push sends to GitHub
+Pull receives from GitHub
