@@ -18,7 +18,16 @@ get config --list
 
 If you get in VIM (an editor), hit :q to get out of it.
 
-Concepts
 
-Push sends to GitHub
-Pull receives from GitHub
+# Push sends to GitHub
+
+git push origin master
+
+# Pull receives from GitHub
+
+git pull
+
+# Remote (git push where?)
+
+git remote -v     # -v means verbose
+
